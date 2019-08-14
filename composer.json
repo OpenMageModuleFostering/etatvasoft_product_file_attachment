@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Etatvasoft_Product_File_Attachment",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Attach additional download files, manuals, media files, audio files with products for customer download. ",
+    "authors": [
+    {
+        "name": "Etatvasoft",
+        "email": "etatvasoft.magentodevelopment@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
