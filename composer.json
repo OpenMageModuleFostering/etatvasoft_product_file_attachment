@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Etatvasoft_Product_File_Attachment",
+    "name": "openmage-module-fostering\/etatvasoft_product_file_attachment",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Attach additional download files, manuals, media files, audio files with products for customer download. ",
     "authors": [
